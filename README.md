@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# Simple Phone Book created with React
+# You can see the APP in https://phonebookbyjlgm.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
